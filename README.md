@@ -1,4 +1,3 @@
-# SOC-Log-Analysis-Tool
 # SOC Log Analysis Tool
 
 This is a Python-based tool designed for SOC analysts to analyze log files efficiently. It scans a directory for log files, extracts log entries based on severity levels (CRITICAL, ERROR, WARNING, INFO, DEBUG), and generates a JSON report summarizing the findings.
